@@ -26,5 +26,3 @@ To create a user-friendly and mobile-first appointment booking experience that i
 ## Outcome
 Designed a simple and intuitive mobile application interface that improves the appointment booking experience for users.
 
-## Author
-Alamanda Poojitha
